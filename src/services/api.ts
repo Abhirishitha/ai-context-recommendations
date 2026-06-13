@@ -8,6 +8,7 @@ export interface Recommendation {
   rating: number;
   price: number;
   score: number;
+
 }
 
 export interface RecommendResponse {
